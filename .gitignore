@@ -1,0 +1,26 @@
+# Конфиги (там может быть API ключ!)
+config.json
+chats.json
+user.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Сборка
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Бэкапы
+*.bak
+*.tmp
