@@ -18,6 +18,55 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minqok)
 [![Telegram Support](https://img.shields.io/badge/Telegram_Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ixorusee)
 
+[![Download](https://img.shields.io/badge/⬇️_Скачать-MortiGTS-8b5cf6?style=for-the-badge)](../../releases/latest)
+
+</div>
+
+---
+
+## 📸 Скриншоты
+
+<div align="center">
+
+### 🎬 Загрузка программы
+<img src="loading.png" alt="Загрузка" width="800"/>
+
+---
+
+### 👤 Регистрация при первом запуске
+<img src="register.png" alt="Регистрация" width="800"/>
+
+---
+
+### 🏠 Главный экран — выбор темы для разговора
+<img src="main.png" alt="Главный экран" width="800"/>
+
+---
+
+### 💬 Общение с MortiGTS
+<img src="otvetAI.png" alt="Ответ от AI" width="800"/>
+
+---
+
+### ☀️ Светлая тема
+<img src="whiteTheme.png" alt="Светлая тема" width="800"/>
+
+---
+
+## ⚙️ Настройки
+
+### 🔑 Подключение API
+<img src="api.png" alt="Настройки API" width="800"/>
+
+### 🎨 Внешний вид
+<img src="thisapp.png" alt="Настройки внешнего вида" width="800"/>
+
+### 💬 Настройки чата
+<img src="chat.png" alt="Настройки чата" width="800"/>
+
+### 👤 Профиль пользователя
+<img src="user.png" alt="Настройки профиля" width="800"/>
+
 </div>
 
 ---
