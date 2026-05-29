@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Made by](https://img.shields.io/badge/made%20by-ClomeSquad-purple)
 # 🚀 MortiGTS
 
 Умный AI чат-бот на основе Google Gemini API. Создан командой **ClomeSquad**.
